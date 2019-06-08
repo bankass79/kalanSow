@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="kalanSow-busobj/src/main/java"/>
+	<classpathentry excluding="src/main/java/|src/test/java/" kind="src" path="kalanSow-web"/>
+	<classpathentry kind="src" path="src/main/resources"/>
 	<classpathentry kind="src" path="kalanSow-busobj/src/test/java"/>
 	<classpathentry kind="src" path="kalanSow-core/src/main/java"/>
 	<classpathentry kind="src" path="kalanSow-core/src/test/java"/>

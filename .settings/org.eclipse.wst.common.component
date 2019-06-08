@@ -7,6 +7,8 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/kalanSow-core/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/kalanSow-web/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/kalanSow-web/src/test/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/kalanSow-web"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <property name="context-root" value="kalanSow-project-parent"/>
         <property name="java-output-path" value="/kalanSow-project-parent/bin"/>
     </wb-module>
